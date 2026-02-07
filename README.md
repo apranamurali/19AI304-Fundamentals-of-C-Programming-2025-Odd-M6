@@ -8,7 +8,7 @@
 | Input | Output                                       |
 |-------|----------------------------------------------|
 | 1     | 101.25&nbsp;&nbsp;201.50&nbsp;&nbsp;301.75&nbsp;&nbsp;402.00&nbsp;&nbsp;502.75 |
-# Date : 22.11.2025
+# Date : 
 # Aim:
 To develop a C program using the static storage class in a function with a parameter and without a return value to display the required output.
 # Algorithm:
@@ -33,7 +33,7 @@ To develop a C program using the static storage class in a function with a param
 ### Step 8:
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Step 3b: Function with parameter and static variable
@@ -70,8 +70,7 @@ int main() {
 }
 ```
 # Output:
-
-<img width="381" height="183" alt="image" src="https://github.com/user-attachments/assets/a61e7fb4-dcbb-4280-a5ff-e27b76718a91" />
+<img width="1348" height="752" alt="image" src="https://github.com/user-attachments/assets/b45cb2a3-34d5-4104-acbc-44bfc5dacf89" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -81,7 +80,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-6- Module 6 - FoC
 # Ex.No:27
   Implement a C program to perform arithmetic operations (addition, subtraction, multiplication, division) on two integers using function pointers. The user should input two numbers and select the desired operation from a menu.
-# Date : 22.11.2025
+# Date : 
 # Aim:
   To implement a C program that uses function pointers to perform arithmetic operations (add, subtract, multiply, divide) on two integers based on user choice.
 # Algorithm:
@@ -118,7 +117,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Step 3: Arithmetic functions
@@ -188,8 +187,7 @@ int main() {
 }
 ```
 # Output:
-
-<img width="298" height="249" alt="image" src="https://github.com/user-attachments/assets/e2e17c02-a195-435c-9cc2-91405c54bd16" />
+<img width="1350" height="749" alt="image" src="https://github.com/user-attachments/assets/e4847575-b6dc-4f72-b5a1-9be9edcfa2d2" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -198,7 +196,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-6- Module 6 - FoC
 # Ex.No:28
   Develop a C program to store details of n employees (employee number, name, and salary) using structures, and display the employee(s) with the highest salary.
-# Date : 22.11.2025
+# Date : 
 # Aim:
   To develop and implement a C program that uses a structure to store employee details (employee number, name, and salary) and determine the employee(s) with the highest salary.
 # Algorithm:
@@ -234,7 +232,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Step 3: Define structure
@@ -288,9 +286,7 @@ int main() {
 }
 ```
 # Output:
-<img width="451" height="768" alt="image" src="https://github.com/user-attachments/assets/0b102b35-9acf-4b06-ba68-84278e7f63f2" />
-
-<img width="446" height="143" alt="image" src="https://github.com/user-attachments/assets/9fc9718f-b370-410b-859c-548e913d0232" />
+<img width="1348" height="746" alt="image" src="https://github.com/user-attachments/assets/c4be6560-7e3b-48e5-b286-b5628b6d47ba" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -300,7 +296,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-6- Module 6 - FoC
 # Ex.No:29
   Create the C program to calculate the present age of a person by passing structure as a reference.
-# Date : 22.11.2025
+# Date : 
 # Aim:
   To create a C program that uses a structure to store the current date and birth date, and to calculate the person’s present age in years, months, and days by passing the structure as a reference.
 # Algorithm:
@@ -334,7 +330,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9:
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Step 3: Define structure
@@ -386,8 +382,7 @@ int main() {
 }
 ```
 # Output:
-
-<img width="380" height="157" alt="image" src="https://github.com/user-attachments/assets/abfb0a0c-9782-4841-bfce-1b43d47b1a56" />
+<img width="1354" height="747" alt="image" src="https://github.com/user-attachments/assets/c7313621-0c05-4bce-961b-5a9b5c0ae94b" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -397,7 +392,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-6- Module 6 - FoC
 # Ex.No:30
   Build a C program to demonstrate the use of a pointer to a union. Store an integer value in a union, access it using a union pointer, and display it as both an integer and a character.
-# Date : 22.11.2025
+# Date : 
 # Aim:
   To build a program in C that uses a pointer to a union to store an integer value and display it in both integer and character format.
 # Algorithm:
@@ -424,7 +419,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 // Step 3: Define union
@@ -451,8 +446,9 @@ int main() {
 }
 ```
 # Output:
-
-<img width="313" height="177" alt="image" src="https://github.com/user-attachments/assets/a8e7500e-0508-4ff9-b6da-22f2d12315c0" />
+<img width="1348" height="746" alt="image" src="https://github.com/user-attachments/assets/49f19f75-978a-48b0-aa5c-1538044ae3ac" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
+
+
